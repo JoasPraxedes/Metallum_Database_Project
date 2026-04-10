@@ -1,2 +1,6 @@
+# Forçar todos os arquivos .sql a serem contados como código SQL
 *.sql linguist-language=sql
+
+# Marcar documentação para não poluir a barra de linguagens
 *.docx linguist-documentation=true
+*.pdf linguist-documentation=true
