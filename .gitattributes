@@ -2,5 +2,5 @@
 *.sql linguist-language=sql
 
 # Marcar documentação para não poluir a barra de linguagens
-*.docx linguist-documentation=true
-*.pdf linguist-documentation=true
+*.docx linguist-documentation=false
+*.pdf linguist-documentation=false
